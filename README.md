@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Andrey and am a Python developer.    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=My+name+is+Andrey+and+am+a+Python+developer.+)](https://git.io/typing-svg)
 
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/Django-green)
